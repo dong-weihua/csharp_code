@@ -1,0 +1,12 @@
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\line_and_circle.csproj.AssemblyReference.cache
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\line_and_circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\line_and_circle.AssemblyInfoInputs.cache
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\line_and_circle.AssemblyInfo.cs
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\line_and_circle.csproj.CoreCompileInputs.cache
+D:\Documents\source\git_code\line_and_circle\bin\Debug\net8.0\line_and_circle.deps.json
+D:\Documents\source\git_code\line_and_circle\bin\Debug\net8.0\line_and_circle.dll
+D:\Documents\source\git_code\line_and_circle\bin\Debug\net8.0\line_and_circle.pdb
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\line_and_circle.dll
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\refint\line_and_circle.dll
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\line_and_circle.pdb
+D:\Documents\source\git_code\line_and_circle\obj\Debug\net8.0\ref\line_and_circle.dll

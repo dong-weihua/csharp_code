@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\source\\git_code\\line_and_circle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB11A56C-AC4C-EBC5-2E3C-37FC49CB0A56}|line_and_circle.csproj|d:\\documents\\source\\git_code\\line_and_circle\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB11A56C-AC4C-EBC5-2E3C-37FC49CB0A56}|line_and_circle.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Documents\\source\\git_code\\line_and_circle\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\Documents\\source\\git_code\\line_and_circle\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T12:08:46.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

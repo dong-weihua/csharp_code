@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "line_and_circle/1.0.0": {
+        "runtime": {
+          "line_and_circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "line_and_circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
